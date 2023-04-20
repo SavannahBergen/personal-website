@@ -42,6 +42,16 @@ const navigate = useNavigate();
           </ListItem> */}
           <ListItem disablePadding>
             <ListItemButton
+            onClick={()=>{navigate('/work')}}
+            >
+              <ListItemIcon>
+                <WorkIcon />
+              </ListItemIcon>
+              <ListItemText primary="Work" />
+            </ListItemButton>
+          </ListItem>
+          <ListItem disablePadding>
+            <ListItemButton
             onClick={()=>{navigate('/education')}}
             >
               <ListItemIcon>

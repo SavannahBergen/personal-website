@@ -23,50 +23,50 @@ export default function StandardImageList() {
 const itemData = [
   {
     img: require('../static/IMG-5786.jpg'),
-    title: 'Breakfast',
+    title: 'Sav Personal 1',
   },
   {
     img: require('../static/B7D6D29F-4941-469D-8FE6-18D84AE17566.JPG'),
-    title: 'Burger',
+    title: 'Sav Personal 2',
   },
   {
     img: require('../static/IMG-9997.jpg'),
-    title: 'Camera',
+    title: 'Sav Personal 3',
   },
   {
     img: require('../static/IMG-9237.jpg'),
-    title: 'Coffee',
+    title: 'Sav Personal 4',
   },
   {
     img: require('../static/IMG-7465.jpg'),
-    title: 'Hats',
+    title: 'Sav Personal 5',
   },
   {
     img: require('../static/39467973_2213171415362954_3688819459163684864_n.jpg'),
-    title: 'Honey',
+    title: 'Sav Personal 6',
   },
   {
     img: require('../static/IMG-5296.jpg'),
-    title: 'Basketball',
+    title: 'Sav Personal 7',
   },
   {
     img: require('../static/IMG-2638.jpg'),
-    title: 'Fern',
+    title: 'Sav Personal 8',
   },
   {
     img: require('../static/IMG-0281.jpg'),
-    title: 'Mushrooms',
+    title: 'Sav Personal 9',
   },
   {
     img: require('../static/IMG-0168.jpg'),
-    title: 'Tomato basil',
+    title: 'Sav Personal 10',
   },
   {
     img: require('../static/CuteAddy.jpeg'),
-    title: 'Sea star',
+    title: 'Sav Personal 11',
   },
   {
     img: require('../static/IMG-5786.jpg'),
-    title: 'Bike',
+    title: 'Sav Personal 12',
   },
 ];

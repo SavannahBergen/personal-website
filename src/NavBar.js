@@ -15,7 +15,7 @@ export default function ButtonAppBar() {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar 
       position="static"
-      sx={{backgroundColor: '#fae6ff', color: 'grey'}}
+      sx={{backgroundColor: '#A9A9A9', color: 'black'}}
       >
         <Toolbar>
           <IconButton
@@ -38,7 +38,7 @@ export default function ButtonAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography
-          // sx={{fontFamily: 'Playfair Display'}}
+          sx={{fontFamily: 'Playfair Display'}}
           >
             Savannah Bergen's Personal Site
         </Typography>
