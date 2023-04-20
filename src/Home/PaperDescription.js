@@ -14,11 +14,11 @@ export default function PaperDescription() {
                 <div style={{marginTop: '2em', display: 'block', marginLeft: 'auto',
   marginRight: 'auto'}}>
                 <img
-                    src={`${description.image}?w=164&h=164&fit=crop&auto=format`}
-                    srcSet={`${description.image}?w=164&h=164&fit=crop&auto=format&dpr=2 2x`}
+                    src={`${description.image}?fit=crop&auto=format`}
+                    srcSet={`${description.image}?fit=crop&auto=format&dpr=2 2x`}
                     alt={description.interest}
                     loading="lazy"
-                    style={{width: 164, height: 164, objectFit: 'cover'}}
+                    style={{width: '10vw', height: '10vh', objectFit: 'cover'}}
                 />
                 </div>
                 <Typography variant="body" sx={{ marginTop: '0.5vh' }} >
