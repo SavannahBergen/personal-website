@@ -38,7 +38,7 @@ export default function ButtonAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography
-          sx={{fontFamily: 'Playfair Display'}}
+          // sx={{fontFamily: 'Playfair Display'}}
           >
             Savannah Bergen's Personal Site
         </Typography>

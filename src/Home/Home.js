@@ -22,7 +22,8 @@ export default function Home() {
             >
                 {/* HIII!!! Let's make this sticky!!!! */}
                 <Typography
-                sx={{color: 'black', fontFamily: 'Playfair Display'}}
+                variant="h6"
+                sx={{color: 'black'}}
                 >
                     Welcome! I am Savannah Bergen, and I am excited for you to learn more about me.
                 </Typography>
@@ -46,7 +47,7 @@ export default function Home() {
             <div>
             <Typography
                     variant="caption"
-                    sx={{ fontFamily: 'Playfair Display' }}
+                    // sx={{ fontFamily: 'Playfair Display' }}
                 >
                     A Few of My Life's Snapshots
                 </Typography> 

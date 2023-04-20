@@ -7,6 +7,7 @@ import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import LibraryMusicIcon from '@mui/icons-material/LibraryMusic';
 import { Person } from '@mui/icons-material';
+import SchoolIcon from '@mui/icons-material/School';
 import WorkIcon from '@mui/icons-material/Work';
 import { Home } from '@mui/icons-material';
 import { useNavigate } from 'react-router-dom';
@@ -41,12 +42,12 @@ const navigate = useNavigate();
           </ListItem> */}
           <ListItem disablePadding>
             <ListItemButton
-            onClick={()=>{navigate('/work-life')}}
+            onClick={()=>{navigate('/education')}}
             >
               <ListItemIcon>
-                <WorkIcon />
+                <SchoolIcon />
               </ListItemIcon>
-              <ListItemText primary="Work Life" />
+              <ListItemText primary="Education" />
             </ListItemButton>
           </ListItem>
           <ListItem disablePadding>
