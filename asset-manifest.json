@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.3063d5ac.css",
-    "main.js": "/personal-website/static/js/main.c2fec869.js",
+    "main.css": "/personal-website/static/css/main.ba17183d.css",
+    "main.js": "/personal-website/static/js/main.828ff846.js",
     "static/js/27.e51193d1.chunk.js": "/personal-website/static/js/27.e51193d1.chunk.js",
     "static/media/IMG-0281.jpg": "/personal-website/static/media/IMG-0281.ffffee322d90f944cd58.jpg",
     "static/media/IMG-5296.jpg": "/personal-website/static/media/IMG-5296.271feb19ae44598c6fd9.jpg",
@@ -16,12 +16,13 @@
     "static/media/reading.png": "/personal-website/static/media/reading.a24a8d6b41f40d71eae7.png",
     "static/media/39467973___n.jpg": "/personal-website/static/media/39467973_2213171415362954_3688819459163684864_n.f3323986a15d2a876af3.jpg",
     "static/media/KiteSisters.png": "/personal-website/static/media/KiteSisters.b0d3e824100af32ed4d8.png",
+    "static/media/St._Mary's_Seahawks_Logo.png": "/personal-website/static/media/St._Mary's_Seahawks_Logo.4b21e43e9633cc38583b.png",
     "static/media/CorePowerYogaLogo.jpeg": "/personal-website/static/media/CorePowerYogaLogo.d602c3cdeca0ff272f4e.jpeg",
     "static/media/logo.svg": "/personal-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/personal-website/index.html"
   },
   "entrypoints": [
-    "static/css/main.3063d5ac.css",
-    "static/js/main.c2fec869.js"
+    "static/css/main.ba17183d.css",
+    "static/js/main.828ff846.js"
   ]
 }
