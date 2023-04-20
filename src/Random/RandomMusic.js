@@ -18,9 +18,9 @@ export default function RandomMusic() {
   },[])
   React.useEffect(()=>{
     if(token!==null){
-        console.log(token)
+
         axios.get("https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY/related-artists", { headers: {"Authorization" : `Bearer ${token}`} }).then((response)=>{
-            console.log(response);
+  
             setArtistData(response.data.artists);
         }
 
@@ -28,16 +28,7 @@ export default function RandomMusic() {
     }
   },[token])
 
-  let card = "No Data Found";
-  React.useEffect(()=>{
-    console.log(artistData)
-
-  },[artistData])
-
-  
-
  
-  console.log(card)
 
   return (
     <div>
