@@ -10,7 +10,7 @@ import RandomMusic from './Random/RandomMusic';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={'/personal-website'}>
     <div className="App">
       <AppBar/>
         <Routes>
