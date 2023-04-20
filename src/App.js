@@ -14,10 +14,10 @@ function App() {
     <div className="App">
       <AppBar/>
         <Routes>
-        <Route path="/" element={<Home/>}/>
+        <Route exact path="/" element={<Home/>}/>
         {/* <Route path="/about-me" element={<AboutMe/>}/> */}
-        <Route path="/work-life" element={<WorkLife/>}/>
-        <Route path="/random-music" element={<RandomMusic/>}/>
+        <Route exact path="/work-life" element={<WorkLife/>}/>
+        <Route exact path="/random-music" element={<RandomMusic/>}/>
         </Routes>
     </div>
     </BrowserRouter>
