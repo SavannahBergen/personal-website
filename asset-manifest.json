@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.c3f7bb86.css",
-    "main.js": "/personal-website/static/js/main.5e0da3cd.js",
-    "static/js/787.90db4bbe.chunk.js": "/personal-website/static/js/787.90db4bbe.chunk.js",
+    "main.css": "/personal-website/static/css/main.3063d5ac.css",
+    "main.js": "/personal-website/static/js/main.c2fec869.js",
+    "static/js/27.e51193d1.chunk.js": "/personal-website/static/js/27.e51193d1.chunk.js",
     "static/media/IMG-0281.jpg": "/personal-website/static/media/IMG-0281.ffffee322d90f944cd58.jpg",
     "static/media/IMG-5296.jpg": "/personal-website/static/media/IMG-5296.271feb19ae44598c6fd9.jpg",
     "static/media/IMG-2638.jpg": "/personal-website/static/media/IMG-2638.3b7f173ec4c8d6ce6626.jpg",
@@ -18,13 +18,10 @@
     "static/media/KiteSisters.png": "/personal-website/static/media/KiteSisters.b0d3e824100af32ed4d8.png",
     "static/media/CorePowerYogaLogo.jpeg": "/personal-website/static/media/CorePowerYogaLogo.d602c3cdeca0ff272f4e.jpeg",
     "static/media/logo.svg": "/personal-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/personal-website/index.html",
-    "main.c3f7bb86.css.map": "/personal-website/static/css/main.c3f7bb86.css.map",
-    "main.5e0da3cd.js.map": "/personal-website/static/js/main.5e0da3cd.js.map",
-    "787.90db4bbe.chunk.js.map": "/personal-website/static/js/787.90db4bbe.chunk.js.map"
+    "index.html": "/personal-website/index.html"
   },
   "entrypoints": [
-    "static/css/main.c3f7bb86.css",
-    "static/js/main.5e0da3cd.js"
+    "static/css/main.3063d5ac.css",
+    "static/js/main.c2fec869.js"
   ]
 }
