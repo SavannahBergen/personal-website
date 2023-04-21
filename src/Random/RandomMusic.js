@@ -2,7 +2,7 @@ import * as React from 'react';
 import { useTheme } from '@mui/material/styles';
 import axios from 'axios';
 import ArtistFound from '../MusicCards/ArtistFound';
-import { Typography } from '@mui/material';
+import { Divider, Typography } from '@mui/material';
 
 export default function RandomMusic() {
   const theme = useTheme();
@@ -22,6 +22,7 @@ export default function RandomMusic() {
         axios.get("https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY/related-artists", { headers: {"Authorization" : `Bearer ${token}`} }).then((response)=>{
   
             setArtistData(response.data.artists);
+            console.log(response.data.artists)
         }
 
         )
@@ -31,13 +32,23 @@ export default function RandomMusic() {
  
 
   return (
-    <div>
+    <div 
+    // style={{backgroundColor: '#c3f0c8'}}
+    >
      <Typography
-     variant="h6"
+     variant="h4"
+     align= "left"
+     sx={{padding: '0.5em'}}
+   
      >
-        This is an example of a call to the Spotify Developer API that returns a collection of Artists.
+        Use of the Spotify Developer API
      </Typography>
-    <div>
+     <Divider
+     
+     />
+    <div
+    style={{margin: '1em 0 0 0'}}
+    >
       <ArtistFound artists={artistData}/>
       </div>
     </div>
