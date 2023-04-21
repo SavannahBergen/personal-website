@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.ba17183d.css",
-    "main.js": "/personal-website/static/js/main.6a21da11.js",
+    "main.js": "/personal-website/static/js/main.d9792f51.js",
     "static/js/27.e51193d1.chunk.js": "/personal-website/static/js/27.e51193d1.chunk.js",
     "static/media/IMG-0281.jpg": "/personal-website/static/media/IMG-0281.ffffee322d90f944cd58.jpg",
     "static/media/IMG-5296.jpg": "/personal-website/static/media/IMG-5296.271feb19ae44598c6fd9.jpg",
@@ -12,6 +12,7 @@
     "static/media/IMG-7465.jpg": "/personal-website/static/media/IMG-7465.daf1998d371a92e19ada.jpg",
     "static/media/IMG-9997.jpg": "/personal-website/static/media/IMG-9997.1c21651f69eb0a14e776.jpg",
     "static/media/CuteAddy.jpeg": "/personal-website/static/media/CuteAddy.b0e860351f4ef0daa78b.jpeg",
+    "static/media/web-design-2906159.jpg": "/personal-website/static/media/web-design-2906159.d8e2ec02e2476f93da93.jpg",
     "static/media/B7D6D29F-4941-469D-8FE6-18D84AE17566.JPG": "/personal-website/static/media/B7D6D29F-4941-469D-8FE6-18D84AE17566.e7da3cccadceaf2649ea.JPG",
     "static/media/reading.png": "/personal-website/static/media/reading.a24a8d6b41f40d71eae7.png",
     "static/media/39467973___n.jpg": "/personal-website/static/media/39467973_2213171415362954_3688819459163684864_n.f3323986a15d2a876af3.jpg",
@@ -23,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.ba17183d.css",
-    "static/js/main.6a21da11.js"
+    "static/js/main.d9792f51.js"
   ]
 }
